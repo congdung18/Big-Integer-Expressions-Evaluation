@@ -47,7 +47,7 @@ A C++ project that evaluates arithmetic expressions with **arbitrary-precision i
 ## File Description
 **BigIntHeader.hpp:** Contains required libraries, data structure definitions, and function declarations.
 
-**BigIntImplementation.cpp** Implements:
+**BigIntImplementation.cpp:** implements
 - Big Integer arithmetic operations
 - Stack and Queue using Linked Lists
 - Expression conversion (Infix → Postfix)
