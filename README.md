@@ -45,23 +45,16 @@ A C++ project that evaluates arithmetic expressions with **arbitrary-precision i
 ```
 
 ## File Description
-BigIntHeader.hpp
-Contains required libraries, data structure definitions, and function declarations.
+**BigIntHeader.hpp:** Contains required libraries, data structure definitions, and function declarations.
 
-BigIntImplementation.cpp
-Implements:
+**BigIntImplementation.cpp** Implements:
+- Big Integer arithmetic operations
+- Stack and Queue using Linked Lists
+- Expression conversion (Infix → Postfix)
+- Postfix expression evaluation
 
-Big Integer arithmetic operations
+**Main.cpp:**
+- Main executable file.
+- Reads expressions, evaluates them, and writes results to output.txt.
 
-Stack and Queue using Linked Lists
-
-Expression conversion (Infix → Postfix)
-
-Postfix expression evaluation
-
-Main.cpp
-Main executable file.
-Reads expressions, evaluates them, and writes results to output.txt.
-
-Test.cpp
-Testing utility used to compare the generated output with the expected output.
+**Test.cpp:** Testing utility used to compare the generated output with the expected output.
