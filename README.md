@@ -33,7 +33,7 @@ A C++ project that evaluates arithmetic expressions with **arbitrary-precision i
 4. If all test cases are correct, the console will print:
 ```text
     The files are identical
-
+```
 ---
 
 ## File Structure
@@ -42,6 +42,7 @@ A C++ project that evaluates arithmetic expressions with **arbitrary-precision i
 ├── BigIntImplementation.cpp
 ├── Main.cpp
 ├── Test.cpp
+```
 
 ## File Description
 BigIntHeader.hpp
