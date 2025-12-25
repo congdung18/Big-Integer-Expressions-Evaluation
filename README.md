@@ -31,13 +31,13 @@ A C++ project that evaluates arithmetic expressions with **arbitrary-precision i
    - The program should generate an `output.txt` file
 3. Compile and run **`Test.cpp`**
 4. If all test cases are correct, the console will print:
-``text
+```text
     The files are identical
 
 ---
 
 ## File Structure
-``text
+```text
 ├── BigIntHeader.hpp
 ├── BigIntImplementation.cpp
 ├── Main.cpp
